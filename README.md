@@ -1,10 +1,10 @@
 # Amazon Website Clone
 
-📌 **Project Overview** :
+## 📌 Project Overview
 
-This project is an Amazon Website Clone built using HTML5 and CSS3. The project recreates the user interface of an Amazon-style shopping website, including a login page, navigation bar, search section, product sections, shopping cart, and footer.
+This project is an Amazon Website Clone developed using HTML5 and CSS3. It recreates the user interface of an Amazon-style e-commerce website, including a sign-in page, navigation bar, search functionality, product sections, shopping cart, and footer.
 
-The goal of this project is to practice and demonstrate front-end web development concepts such as HTML structure, CSS styling, Flexbox, CSS Grid, forms, navigation, and page linking.
+The project demonstrates my ability to design and develop structured, user-friendly web interfaces while applying front-end development concepts such as HTML5 semantic structure, CSS3 styling, Flexbox, CSS Grid, forms, navigation, page linking, and responsive layout techniques.
 
 ## Screenshots
 **Sign in Page**
@@ -126,6 +126,3 @@ GitHub:[Saiteja525934] (https://github.com/Saiteja525934)
 
 LinkedIn:[Sai Teja Telu] (https://www.linkedin.com/in/sai-teja-b49751384/)
 
-## ⚠️ **Disclaimer** :
-
-This project is created for educational and practice purposes. It is a front-end recreation inspired by the Amazon website and is not affiliated with or endorsed by Amazon.
